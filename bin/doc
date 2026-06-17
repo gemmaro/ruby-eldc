@@ -1,0 +1,6 @@
+#!/bin/sh
+set -eu
+
+rdoc \
+    --exclude='ext/eldc/eldc/|ext/eldc/extconf.rb|tmp/|Rakefile|Gemfile|bin/' \
+    --main=README.md

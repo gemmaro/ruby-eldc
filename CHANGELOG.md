@@ -1,5 +1,7 @@
-## [Unreleased]
+# Change Log for ELDC RubyGem
 
-## [0.1.0] - 2026-06-18
+## Unreleased
+
+## 0.1.0 - 2026-06-18
 
 - Initial release

@@ -2,12 +2,9 @@
 
 source "https://rubygems.org"
 
-# Specify your gem's dependencies in eldc.gemspec
 gemspec
 
 gem "irb"
 gem "rake", "~> 13.0"
-
 gem "rake-compiler"
-
 gem "test-unit", "~> 3.0"
