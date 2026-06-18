@@ -22,7 +22,7 @@ Gem::Specification.new do |spec|
     'ext/eldc/eldc/src/eldc/eldc_lib.c',
     'ext/eldc/eldc/src/eldc/eld_core.c',
     'ext/eldc/eldc/src/eldc/large_db.h',
-    'ext/eldc/eldc/src/eldc/eld_unicode_bits.c',
+    'ext/eldc/eldc/src/eldc/eld_unicode_bits.h',
     'ext/eldc/eldc/src/eldc/eld_iso639_2t.h',
     'ext/eldc/eldc/src/eldc/eld_tolower.h',
     'ext/eldc/eldc/LICENSE',
