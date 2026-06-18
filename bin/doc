@@ -2,5 +2,5 @@
 set -eu
 
 rdoc \
-    --exclude='ext/eldc/eldc/|ext/eldc/extconf.rb|tmp/|Rakefile|Gemfile|bin/' \
+    --exclude='ext/eldc/eldc/|ext/eldc/extconf.rb|tmp/|Rakefile|Gemfile|bin/|vendor/' \
     --main=README.md
